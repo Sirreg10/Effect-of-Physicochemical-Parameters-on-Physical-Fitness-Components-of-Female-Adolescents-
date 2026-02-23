@@ -299,28 +299,12 @@ Data were collected at a single point in time. A longitudinal study tracking the
 **3. Confounding Variables**
 Although participants were matched for age, socio-economic status, and school enrollment, other confounding factors — such as dietary habits, physical activity levels outside school, sleep patterns, genetic predispositions, and access to healthcare — were not fully controlled for.
 
-**4. Self-Reported and Proxy Data**
-Some demographic information may have relied on self-report or school records, introducing potential for measurement inconsistency.
-
-**5. Generalizability**
+**4. Generalizability**
 The findings are geographically specific to the Qua Iboe Estuary region and the Uyo control area. Extrapolating these results to other estuarine or polluted environments should be done cautiously.
 
-**6. Absence of Individual-Level Environmental Exposure Data**
-While environmental sampling was conducted at site level, individual-level exposure data (e.g., how many hours each participant spends outdoors, proximity to specific pollution sources) was not collected. This limits the ability to establish dose-response relationships.
-
-**7. Categorical Flexibility Measurement**
-The flexibility metric was measured categorically (Pass/Average/Fair/Poor) rather than as a continuous numerical variable, making it impossible to apply standard statistical tests (e.g., t-test) or include it meaningfully in regression or classification models.
-
-**8. Machine Learning Depth**
+**5. Machine Learning Depth**
 The current analysis primarily employed statistical comparison (t-tests) and HFZ benchmarking. Deeper machine learning models (e.g., Random Forest, Logistic Regression, or Support Vector Machines) could be applied in future work for more robust predictive modeling and feature importance analysis.
 
----
-
-## Citation
-
- Yusuf, O. O., Ford, D., Nkwocha, C. R., & Lawal, A. (2025). *Effect of Physicochemical Parameters on Physical Fitness Components of Female Adolescents Around Qua Iboe Estuary Using Machine Learning.* Research Group Publication.
-
----
 
 ## Links
 
